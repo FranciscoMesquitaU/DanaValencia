@@ -1,5 +1,5 @@
 body {
-    background: lightskyblue
+    background: rgb(17, 0, 255)
     color: white;
 }
 
@@ -9,7 +9,7 @@ h1, h2, p {
 h1, h2 {
     font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
-    color: cyan;
+    color: rgb(4, 0, 255);
 
 }
 
@@ -37,5 +37,3 @@ width: 49%;
 
 
 }
-
-
