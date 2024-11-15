@@ -1,1 +1,40 @@
+body {
+    background: lightskyblue
+    color: white;
+}
+
+h1, h2, p {
+    color: #f0f0f0;
+}
+h1, h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    color: cyan;
+
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+footer {
+    background: rgb(160, 93, 63);
+    text-align: center;
+    padding: 10px;
+    position: center;
+    bottom: 0;
+    width: 100%;
+    margin-top: 40px;
+    
+}
+
+footer p {
+    color: #f0f0f0;
+    font-size: 1em;
+   
+}
+img{
+width: 49%;
+
+
+}
 
