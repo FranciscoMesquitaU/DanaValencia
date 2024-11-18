@@ -1,6 +1,9 @@
 body{
 text-align: center;
 background-image: url(https://www.uv.es/recursos/fatwirepub/ccurl/679/167/foto-dana-uwm-01-torre.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 
     
 }
