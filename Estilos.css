@@ -1,38 +1,39 @@
-body {
-    background: rgb(17, 0, 255)
-    color: white;
-}
-
-h1, h2, p {
-    color: #683a1c;
-}
-h1, h2 {
-    font-family: 'Bebas Neue', sans-serif;
-    text-transform: uppercase;
-    color: rgb(4, 0, 255);
-
-}
-
-p {
-    font-family: 'Open Sans', sans-serif;
-}
+/* Estilos para el footer */
 footer {
-    background: rgb(160, 93, 63);
-    text-align: center;
-    padding: 10px;
-    position: center;
-    bottom: 0;
+    background-color: #333; /* Fondo oscuro */
+    color: #fff; /* Color de texto blanco */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Centra el contenido */
+}
+
+/* Estilos para la tabla */
+footer table {
     width: 100%;
-    margin-top: 40px;
-    
+    margin: 0 auto; /* Centra la tabla */
+    border-collapse: collapse; /* Elimina el espacio entre las celdas */
 }
 
-footer p {
-    color: #4d3214;
-    font-size: 1em;
-   
-}
-img{
-width: 49%;
+/* Estilos para las celdas de la tabla */
+footer table td {
+    padding: 10px; /* Espaciado interno de las celdas */
+    text-align: center; /* Centra el contenido de las celdas */
 }
 
+/* Estilo para los enlaces */
+footer table a {
+    color: #f0a500; /* Color dorado para los enlaces */
+    text-decoration: none; /* Elimina el subrayado por defecto */
+    font-size: 16px; /* Tamaño de la fuente */
+    font-weight: bold; /* Negrita en los enlaces */
+}
+
+/* Efecto hover para los enlaces */
+footer table a:hover {
+    color: #fff; /* Cambia el color a blanco cuando se pasa el ratón */
+    text-decoration: underline; /* Añade un subrayado al pasar el ratón */
+}
+
+/* Estilo para los enlaces cuando están visitados */
+footer table a:visited {
+    color: #f0a500; /* Mantiene el color dorado después de hacer clic */
+}
