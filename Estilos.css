@@ -1,3 +1,31 @@
+body {
+    background: rgb(17, 0, 255)
+    color: white;
+}
+
+h1, h2, p {
+    color: #683a1c;
+}
+h1, h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    color: rgb(4, 0, 255);
+
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+footer {
+    background: rgb(160, 93, 63);
+    text-align: center;
+    padding: 10px;
+    position: center;
+    bottom: 0;
+    width: 100%;
+    margin-top: 40px;
+    
+}
 footer {
     background-color: #333; 
     color: #fff; 
@@ -36,3 +64,43 @@ footer table a:hover {
 footer table a:visited {
     color: #f0a500;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
