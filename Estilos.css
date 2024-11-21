@@ -1,39 +1,38 @@
-/* Estilos para el footer */
 footer {
-    background-color: #333; /* Fondo oscuro */
-    color: #fff; /* Color de texto blanco */
-    padding: 20px; /* Espaciado interno */
-    text-align: center; /* Centra el contenido */
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px;
+    text-align: center; 
 }
 
-/* Estilos para la tabla */
+
 footer table {
     width: 100%;
-    margin: 0 auto; /* Centra la tabla */
-    border-collapse: collapse; /* Elimina el espacio entre las celdas */
+    margin: 0 auto;
+    border-collapse: collapse; 
 }
 
-/* Estilos para las celdas de la tabla */
+
 footer table td {
-    padding: 10px; /* Espaciado interno de las celdas */
-    text-align: center; /* Centra el contenido de las celdas */
+    padding: 10px; 
+    text-align: center;
 }
 
-/* Estilo para los enlaces */
+
 footer table a {
-    color: #f0a500; /* Color dorado para los enlaces */
-    text-decoration: none; /* Elimina el subrayado por defecto */
-    font-size: 16px; /* Tamaño de la fuente */
-    font-weight: bold; /* Negrita en los enlaces */
+    color: #f0a500;
+    text-decoration: none; 
+    font-size: 16px; 
+    font-weight: bold; 
 }
 
-/* Efecto hover para los enlaces */
+
 footer table a:hover {
-    color: #fff; /* Cambia el color a blanco cuando se pasa el ratón */
-    text-decoration: underline; /* Añade un subrayado al pasar el ratón */
+    color: #fff; 
+    text-decoration: underline; 
 }
 
-/* Estilo para los enlaces cuando están visitados */
+
 footer table a:visited {
-    color: #f0a500; /* Mantiene el color dorado después de hacer clic */
+    color: #f0a500;
 }
