@@ -6,6 +6,7 @@ background-size: cover;
 
 h1, h2, p {
     color: #683a1c;
+    background-color: white;
 }
 h1, h2 {
     font-family: 'Bebas Neue', sans-serif;
