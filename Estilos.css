@@ -16,6 +16,10 @@ h1, h2 {
 p {
     font-family: 'Open Sans', sans-serif;
 }
+
+img {
+    align-items: center;
+}
 footer {
     background: rgb(160, 93, 63);
     text-align: center;
