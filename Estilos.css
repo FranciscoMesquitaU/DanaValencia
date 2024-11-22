@@ -23,16 +23,6 @@ img {
     align-items: center;
 }
 footer {
-    background: rgb(160, 93, 63);
-    text-align: center;
-    padding: 10px;
-    position: center;
-    bottom: 0;
-    width: 100%;
-    margin-top: 40px;
-    
-}
-footer {
   position: relative;
   width: 100%;
   background: #286bcf;
