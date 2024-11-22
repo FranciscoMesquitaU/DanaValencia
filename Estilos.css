@@ -32,43 +32,16 @@ footer {
     margin-top: 40px;
     
 }
-footer {
-    background-color: #333; 
-    color: #fff; 
-    padding: 20px;
-    text-align: center; 
-}
-
-
-footer table {
-    width: 100%;
-    margin: 0 auto;
-    border-collapse: collapse; 
-}
-
-
-footer table td {
-    padding: 10px; 
-    text-align: center;
-}
-
-
-footer table a {
-    color: #f0a500;
-    text-decoration: none; 
-    font-size: 16px; 
-    font-weight: bold; 
-}
-
-
-footer table a:hover {
-    color: #fff; 
-    text-decoration: underline; 
-}
-
-
-footer table a:visited {
-    color: #f0a500;
+.footer {
+  position: relative;
+  width: 100%;
+  background: #286bcf;
+  min-height: 100px;
+  padding: 20px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 
